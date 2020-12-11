@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>250</x>
+      <y>50</y>
+      <w>260</w>
+      <h>510</h>
+    </coordinates>
+    <panel_attributes>Desktop App 
+Backend V1
+
+1-Event listiner:
+When a ne	w FLP fijle is added to
+the local repo(which is a
+directory)
+
+2-Ask the gents how long should the
+sprint be, do this with each sprint.
+Possibly plan dates for the next 4 sprints
+Setup trello google calendar to notify
+on the start and end of each sprint.
+
+2-Keep track of staging area
+
+3-TCP connection to phone
+
+*
+-Do System designs
+*
+
+-Setup Tests
+
+#################
+During Semester
+
+Schedule Backing up time
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>570</x>
+      <y>50</y>
+      <w>260</w>
+      <h>320</h>
+    </coordinates>
+    <panel_attributes>Desktop App 
+Backend V2
+
+-Event listiner:
+When a ne	w FLP fijle is updated in
+the local repo(which is a
+directory)
+
+-Be able to cancel the search script whilst
+it runs-unlike FL and Serato sample
+
+-Producer community-
+Bassically a social media network
+for sharing loops,samples
+sounds.
+Directly acessible through VST
+via webservice</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>580</x>
+      <y>400</y>
+      <w>260</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>New wave of team to
+join in end of January.
+
+Mongezi
+Donald
+AW
+Ntuthuko
+
+#################
+Wave 3
+
+Act Sci Comrades-
+Skhilla, Tsepi, Ikanyeng,
+Xabiso, 
+
+#################
+Future recruitment strategies
+Hiring people who are repeating
+coms3 in a 1 year contract
+
+Using MSL + CASM to host hackathons</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
